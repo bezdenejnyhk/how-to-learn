@@ -1,0 +1,9 @@
+.table_theme_dark{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: start;
+    margin: 0 auto 90px;
+    padding: 0;
+  }
